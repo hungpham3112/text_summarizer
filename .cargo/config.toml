@@ -1,0 +1,4 @@
+[env]
+LIBTORCH_BYPASS_VERSION_CHECK = {value = "1"}
+LIBTORCH = {value = "$HOME/libtorch/"}
+LD_LIBRARY_PATH = {value = "$HOME/libtorch/lib"}
